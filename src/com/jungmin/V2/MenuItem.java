@@ -1,4 +1,4 @@
-package com.jungmin;
+package com.jungmin.V2;
 
 public class MenuItem {
     private String name;
